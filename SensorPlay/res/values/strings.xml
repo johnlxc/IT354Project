@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, SensorPlayActivity!</string>
+    <string name="app_name">SensorPlay</string>
+    <string name="stepcount">Start walking to count steps</string>
+    <string name="count">Please Begin</string>
+    <string name="reset">Reset!</string>
+    <string name="sensitivity">Sensitivity: 0</string>
+
+</resources>
